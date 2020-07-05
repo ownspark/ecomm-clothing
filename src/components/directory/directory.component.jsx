@@ -32,7 +32,7 @@ class Directory extends Component {
                 linkUrl: 'shop/sneakers'
             },
             {
-                title: 'womens',
+                title: 'women',
                 // imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
                 imageUrl: 'images/womens.png', // local file in public/images/
                 size: 'large',
@@ -40,7 +40,7 @@ class Directory extends Component {
                 linkUrl: 'shop/womens'
             },
             {
-                title: 'mens',
+                title: 'men',
                 // imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
                 imageUrl: 'images/men.png', // local file in public/images/
                 size: 'large',
